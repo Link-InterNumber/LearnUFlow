@@ -1,0 +1,3 @@
+[submodule "Assets/UFlowFramework"]
+	path = Assets/UFlowFramework
+	url = git@github.com:Link-InterNumber/UFlowFramework.git
